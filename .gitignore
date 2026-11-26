@@ -1,0 +1,19 @@
+# 密钥与环境（绝对不能上传）
+.env
+.vscode/
+
+# 向量库与数据文件（体积大且非代码）
+chroma_db/
+data/
+
+# 思维导图产物
+LangChain知识点思维导图*
+
+# 其他非代码文件
+readme.txt
+route_plan.html
+
+# Python / Jupyter 运行产物
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
